@@ -47,8 +47,8 @@ Visual Arts, University of California San Diego, B.A., 2010
 
 ## Contact
 
-*   **Email:** [artist_email@example.com](mailto:artist_email@example.com)
-*   **Website:** [artist_website.com](https://artist_website.com)
+*   **Email:** [ericrosalesart@gmail.com](mailto:ericrosalesart@gmail.com)
+*   **Website:** [ericrosalesart.com](https://ericrosalesart.com)
 
 ## Social Media
 
