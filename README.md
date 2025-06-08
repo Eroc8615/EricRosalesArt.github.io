@@ -14,7 +14,8 @@
 <br>
 2010	UC San Diego Visual Arts program solo exhibition, La Jolla, California
 <br>
-Commissions
+    <br>
+Commissions:
 <br>
 2012	Holiday window painting at O’Neill’s Irish Pub in San Mateo, CA
 <br>
@@ -24,21 +25,25 @@ Commissions
 <br>
 2025	4 commissioned pet portraits for Danielle, Amy and Ross.
 <br>
-Public Collections
+    <br>
+Public Collections:
 <br>
 2007	Public Mural at De Anza Community College in Cupertino, California
 <br>
-Corporate Exhibitions (group show)
+    <br>
+Corporate Exhibitions (group shows):
 <br>
 2023	Google Health Customer Care Creates art exhibit in Palo Alto, CA
 <br>
-Awards and Honors
+    <br>
+Awards and Honors:
 <br>
 Studied visual arts under teaching assistant Vincent Manganello at UC San Diego, California 2009-2010
 <br>
 Mentored interested art students at John Otis Elementary in National City, California 2010
 <br>
-Education
+    <br>
+Education:
 <br>
 Visual Arts, University of California San Diego, B.A., 2010
 
