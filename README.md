@@ -7,8 +7,10 @@
 
 <p>
   <img src="image_url.jpg" alt="Artist Portrait" width="200" height="200">
-  <br>
-  <em>Selected Exhibitions (solo shows)
+<br>
+<br>
+  
+  <em>Selected Exhibitions (solo shows):
 <br>
 2009	Public Mural at KSDT college radio station building at UC La Jolla, California
 <br>
