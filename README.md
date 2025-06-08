@@ -1,5 +1,5 @@
-# Eroc8615.github.io
-# Artist Name
+
+# Eric Rosales
 
 ## About
 
