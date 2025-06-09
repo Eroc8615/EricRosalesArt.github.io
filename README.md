@@ -1,12 +1,15 @@
 
 # Eric Rosales
-
+<br>
+Eric Rosales is a painter who is exploring Alien and UFO subject matter through his visual artwork.
+<br>
 ## The Artist's Mission
 <br>
 <br>
-> To make quality artworks for my alien art brand. I like working on commissioned paintings and most recently have been trying to market my services as a pet portraitier. I would be happy to do your next pet portrait!
+> I strive to make quality artworks for my alien art brand. These start out as landscape paintings based on my imagination or from photographs. I have even started with landcape paintings that I did from an instructional book. These landscapes end up getting scanned and worked up with graphic art software. When I use watercolor paints I will do this scan in method. When I use acrylic paint I will often times add a UFO or alien over the image using my brushwork.
+I also like working on commissioned paintings and most recently have been trying to market my services as a pet portraitier. I would be happy to do your next pet portrait!
 <br>
-Eric Rosales is a painter who is exploring Alien and UFO subject matter through his visual artwork. <br>
+ <br>
 He is based in North Las Vegas, Nevada which is near the infamous Area 51. 
 <br>
 <br>
