@@ -32,7 +32,7 @@ Commissions:
 <br>
 2014 	Holiday window painting at O’Neill’s Irish Pub in San Mateo, CA
 <br>
-2025	4 commissioned pet portraits for Danielle, Amy and Ross.
+2025	Pet portraits for Danielle, Amy and Ross.
 <br>
     <br>
 Public Collections:
