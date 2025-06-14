@@ -4,6 +4,8 @@
 Eric Rosales is a painter who is exploring Alien and UFO subject matter through his visual artwork. With an impressionistic focus on technique, he ranges from the more abstract to conceptual side rather than full realism. His work is whimsical in nature and he primarily uses symbolism to come up with new designs and compositions.
 <br>
 He is based in North Las Vegas, Nevada which is near the infamous Area 51. 
+<br>
+  <br>
 ## The Artist's Mission
 <br>
 I strive to make quality artworks for my alien art brand. These start out as landscape paintings based on my imagination or from photographs. I have even started with landcape paintings that I did from an instructional book. These landscapes end up getting scanned and worked up with graphic art software. When I use watercolor paints I will do this scan in method. When I use acrylic paint I will often times add a UFO or alien over the image using my brushwork.
