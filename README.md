@@ -77,10 +77,10 @@ Visual Arts, University of California San Diego, B.A., 2010
 
 ## Portfolio
 
-### [Artwork Title 1]
+### [Pink Alaska Sky]
 
 <p>
-  <img src="artwork1_image_url.jpg" alt="Artwork 1" width="300" height="200">
+  <img src="AlaskaLandscapeUFORevised.jpg" alt="Artwork 1" width="300" height="200">
 </p>
 
 ### [Artwork Title 2]
@@ -93,4 +93,4 @@ Visual Arts, University of California San Diego, B.A., 2010
 
 ## Additional Notes
 
-*   This section can include any extra details or information about the artist.
+*   Please contact me for a quote on commissions.
