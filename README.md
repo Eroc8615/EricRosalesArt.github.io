@@ -62,7 +62,7 @@ Education:
 <br>
 Visual Arts, University of California San Diego, B.A., 2010
 
-.</em>
+</em>
 </p>
 
 ## Contact
