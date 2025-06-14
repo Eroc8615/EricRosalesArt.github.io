@@ -72,9 +72,7 @@ Visual Arts, University of California San Diego, B.A., 2010
 
 ## Social Media
 
-*   [Twitter](https://twitter.com/artist_twitter)
-*   [Instagram](https://www.instagram.com/artist_instagram/)
-*   [Facebook](https://www.facebook.com/artist_facebook)
+*   [Instagram](https://www.instagram.com/ericrosalesart/)
 
 ---
 
