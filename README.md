@@ -17,8 +17,6 @@ I also like working on commissioned paintings and most recently have been trying
 <br>
 <p>
   <img src="Black and white focused face and hand.jpg" alt="Artist Portrait" width="200" height="200">
-<br>
-<p>
   <img src="EricatRedRockPetroglyphs.jpg" alt="Artist Portrait" width="200" height="200">
 <br>
 <br>
