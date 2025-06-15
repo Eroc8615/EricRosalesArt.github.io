@@ -90,6 +90,11 @@ Visual Arts, University of California San Diego, B.A., 2010
   <img src="ForeverTreesUFO.jpg" alt="Artwork 2" width="300" height="200">
 </p>
 
+### [Forever Trees]
+
+<p>
+  <img src="RossDogwithWhiskers.HEIC" alt="Artwork 2" width="300" height="200">
+</p>
 ---
 
 ## Additional Notes
