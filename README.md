@@ -90,7 +90,7 @@ Visual Arts, University of California San Diego, B.A., 2010
   <img src="ForeverTreesUFO.jpg" alt="Artwork 2" width="300" height="200">
 </p>
 
-### [Ross' Dog]
+### [Pet Portraits]
 
 <p>
   <img src="RossDogwithWhiskers.jpg" alt="Artwork 3" width="300" height="200">
@@ -103,4 +103,4 @@ Visual Arts, University of California San Diego, B.A., 2010
 
 ## Additional Notes
 
-*   Please contact me for a quote on commissions.
+*   Please contact me for a quote on commissions for your next pet portrait, or anything else we can dream up!
