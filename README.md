@@ -94,6 +94,10 @@ Visual Arts, University of California San Diego, B.A., 2010
 
 <p>
   <img src="RossDogwithWhiskers.jpg" alt="Artwork 3" width="300" height="200">
+  <img src="PeanutPainting2.jpg" alt="Artwork 4" width="300" height="200">
+  <img src="Nova.jpg" alt="Artwork 5" width="300" height="200">
+  <img src="Danielle'sCat2.jpg" alt="Artwork 6" width="300" height="200">
+  <img src="Danielle'sAunt'sCat.jpg" alt="Artwork 7" width="300" height="200">
 </p>
 ---
 
