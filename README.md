@@ -81,7 +81,7 @@ Visual Arts, University of California San Diego, B.A., 2010
 <p>
   <img src="AlaskaLandscapeUFORevised.jpg" alt="Artwork 1" width="300" height="200">
 
-### [Forever Trees]
+[Forever Trees]
 
 
   <img src="ForeverTreesUFO.jpg" alt="Artwork 2" width="300" height="200">
