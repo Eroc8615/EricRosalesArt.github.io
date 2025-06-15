@@ -93,7 +93,7 @@ Visual Arts, University of California San Diego, B.A., 2010
 ### [Forever Trees]
 
 <p>
-  <img src="RossDogwithWhiskers.HEIC" alt="Artwork 2" width="300" height="200">
+  <img src="PeanutPainting2.HEIC" alt="Artwork 2" width="300" height="200">
 </p>
 ---
 
