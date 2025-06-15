@@ -75,8 +75,7 @@ Visual Arts, University of California San Diego, B.A., 2010
 ---
 
 ## Portfolio
-
-### [Pink Alaskan Sky]
+[Pink Alaskan Sky]
 
 <p>
   <img src="AlaskaLandscapeUFORevised.jpg" alt="Artwork 1" width="300" height="200">
