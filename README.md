@@ -90,10 +90,10 @@ Visual Arts, University of California San Diego, B.A., 2010
   <img src="ForeverTreesUFO.jpg" alt="Artwork 2" width="300" height="200">
 </p>
 
-### [Peanut]
+### [Ross' Dog]
 
 <p>
-  <img src="PeanutPainting2.HEIC" alt="Artwork 3" width="300" height="200">
+  <img src="RossDogwithWhiskers.jpg" alt="Artwork 3" width="300" height="200">
 </p>
 ---
 
